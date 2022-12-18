@@ -1,1 +1,1 @@
-# python-learning-path
+# data_science_learning_path
